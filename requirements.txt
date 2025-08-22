@@ -1,0 +1,2 @@
+# add python packages here, e.g.:
+# requests>=2.31,<3
