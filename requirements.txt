@@ -1,2 +1,11 @@
 # add python packages here, e.g.:
 # requests>=2.31,<3
+# Airflow providers used by your DAGs
+apache-airflow-providers-amazon
+apache-airflow-providers-snowflake
+apache-airflow-providers-slack
+
+# libs used by your PythonOperators
+pandas
+requests
+snowflake-connector-python
